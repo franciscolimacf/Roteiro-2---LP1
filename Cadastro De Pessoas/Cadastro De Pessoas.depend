@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1536024802 source:c:\users\franf\documents\c++\roteiro 2\cadastro de pessoas\src\cadastrodepessoas.cpp
+	"CadastroDePessoas.h"
+
+1536024802 c:\users\franf\documents\c++\roteiro 2\cadastro de pessoas\include\cadastrodepessoas.h
+	"Pessoa.h"
+
+1536024771 c:\users\franf\documents\c++\roteiro 2\cadastro de pessoas\include\pessoa.h
+	"Endereco.h"
+
+1536024255 c:\users\franf\documents\c++\roteiro 2\cadastro de pessoas\include\endereco.h
+	<string>
+
+1536024527 source:c:\users\franf\documents\c++\roteiro 2\cadastro de pessoas\src\endereco.cpp
+	"Endereco.h"
+
+1536024771 source:c:\users\franf\documents\c++\roteiro 2\cadastro de pessoas\src\pessoa.cpp
+	"Pessoa.h"
+

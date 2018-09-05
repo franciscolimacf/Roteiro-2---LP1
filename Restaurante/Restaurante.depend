@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1536113465 source:c:\users\franf\documents\c++\roteiro 2\restaurante\main.cpp
+	<iostream>
+	"RestauranteCaseiro.h"
+
+1536113325 c:\users\franf\documents\c++\roteiro 2\restaurante\include\restaurantecaseiro.h
+	"MesaDeRestaurante.h"
+
+1536113325 c:\users\franf\documents\c++\roteiro 2\restaurante\include\mesaderestaurante.h
+	"Pedido.h"
+
+1536113325 c:\users\franf\documents\c++\roteiro 2\restaurante\include\pedido.h
+	<string>
+	<sstream>
+
+1536113325 source:c:\users\franf\documents\c++\roteiro 2\restaurante\src\mesaderestaurante.cpp
+	"MesaDeRestaurante.h"
+
+1536113485 source:c:\users\franf\documents\c++\roteiro 2\restaurante\src\pedido.cpp
+	"Pedido.h"
+
+1536113431 source:c:\users\franf\documents\c++\roteiro 2\restaurante\src\restaurantecaseiro.cpp
+	"RestauranteCaseiro.h"
+	<iostream>
+

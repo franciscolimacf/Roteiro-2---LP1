@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1536126682 source:c:\users\franf\documents\c++\roteiro 2\trabalhador\src\trabalhador.cpp
+	"Trabalhador.h"
+
+1536126732 c:\users\franf\documents\c++\roteiro 2\trabalhador\include\trabalhador.h
+	<string>
+
+1536126682 source:c:\users\franf\documents\c++\roteiro 2\trabalhador\src\trabalhadorassalariado.cpp
+	"TrabalhadorAssalariado.h"
+
+1536126682 c:\users\franf\documents\c++\roteiro 2\trabalhador\include\trabalhadorassalariado.h
+	"Trabalhador.h"
+

@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1536122432 source:c:\users\franf\documents\c++\roteiro 2\figuras geometricas\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1536122431 c:\users\franf\documents\c++\roteiro 2\figuras geometricas\include\figurageometrica.h
+	<string>
+
+1536122431 source:c:\users\franf\documents\c++\roteiro 2\figuras geometricas\src\triangulo.cpp
+	"Triangulo.h"
+
+1536122431 c:\users\franf\documents\c++\roteiro 2\figuras geometricas\include\triangulo.h
+	"FiguraGeometrica.h"
+
+1536122432 source:c:\users\franf\documents\c++\roteiro 2\figuras geometricas\main.cpp
+	<iostream>
+	"Triangulo.h"
+	"Quadrado.h"
+	"Circulo.h"
+
+1536122506 c:\users\franf\documents\c++\roteiro 2\figuras geometricas\include\quadrado.h
+	"FiguraGeometrica.h"
+
+1536122506 c:\users\franf\documents\c++\roteiro 2\figuras geometricas\include\circulo.h
+	"FiguraGeometrica.h"
+
+1536121610 source:c:\users\franf\documents\c++\roteiro 2\figuras geometricas\src\quadrado.cpp
+	"Quadrado.h"
+
